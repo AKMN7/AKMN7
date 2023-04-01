@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-- Hello! My Name is Anas Nassar, I am a Full-Stack Developer that enjoys creating stuff on the internet. Feel Free to get in touch 😁. 
+- Hello! My Name is Anas Nassar, I am a Full-Stack Developer that enjoys creating stuff on the internet. Feel Free to get in touch anytime 😁. 
 
 ---
 
