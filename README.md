@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 
-- Hello! My Name is Anas Nassar, I am a Full-Stack Developer that enjoys creating stuff on the internet. Feel Free to get in touch anytime 😁. 
+- Hello! My Name is Anas Nassar, I am a Full-Stack Developer that enjoys creating stuff on the internet. Feel free to get in touch anytime 😁. 
 
 ---
 
@@ -49,8 +49,8 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Top Langs:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKMN7&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKMN7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
