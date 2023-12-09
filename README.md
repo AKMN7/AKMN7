@@ -21,11 +21,11 @@
 
 ### About Me :
 
-- Hello! My Name is Anas Nassar, I am a Full-Stack Developer that enjoys creating stuff on the internet. Feel free to get in touch anytime 😁. 
+- Hello! My Name is Anas Nassar, a Full-Stack Developer who enjoys creating stuff on the internet. Feel free to get in touch anytime 😁. 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
