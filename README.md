@@ -13,7 +13,7 @@
 
 ---
 
-Software Engineer dedicated to transforming technology through innovative projects. I push boundaries to create a lasting impact.
+I’m a Software Engineer specializing in building complete solutions—from backend services and infrastructure to frontend applications and interactive experiences. I focus on creating reliable, scalable, and well-designed systems, combining technical precision with a practical approach to problem-solving.
 
 ---
 
