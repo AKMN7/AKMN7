@@ -13,7 +13,9 @@
 
 ---
 
-I’m a Software Engineer specializing in building complete solutions—from backend services and infrastructure to frontend applications and interactive experiences. I focus on creating reliable, scalable, and well-designed systems, combining technical precision with a practical approach to problem-solving.
+I’m a Software Engineer focused on building end-to-end software solutions—from backend services and cloud infrastructure to frontend applications and interactive event technology.
+
+My work centers on developing scalable SaaS platforms, custom event solutions, and reliable production systems. I combine strong engineering practices with a practical, solution-oriented approach to deliver systems that are robust, efficient, and aligned with real operational needs.
 
 ---
 
